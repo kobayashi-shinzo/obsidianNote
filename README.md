@@ -1,0 +1,2 @@
+# obsidianNote
+ローカル連携
